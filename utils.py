@@ -5,6 +5,7 @@ import smtplib
 from email.mime.text import MIMEText
 import re
 
+
 # Define constants
 USERS_FILE = 'users.json'
 
